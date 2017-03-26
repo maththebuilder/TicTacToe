@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string-array name="image_ids">
+        <item>@drawable/blank</item>
+        <item>@drawable/letter_o</item>
+        <item>@drawable/letter_x</item>
+
+    </string-array>
+</resources>
